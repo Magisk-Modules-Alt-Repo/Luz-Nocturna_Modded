@@ -23,10 +23,12 @@ REPLACE="
 "
 
 print_modname() {
+  ui_print " "
   ui_print "*******************************"
   ui_print "      Luz Nocturna Modded      "
   ui_print "       Por  CrazyBytesVE       "
   ui_print "*******************************"
+  ui_print " "
 }
 
 
@@ -35,8 +37,12 @@ on_install() {
   # Extend/change the logic to whatever you want
   ui_print "- Extrayendo archivos..."
   unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
+  sleep 1
   ui_print "- Ordenando la casa..."
   rm -rf /data/system/package_cache/*
+  sleep 1
+  ui_print "- Terminado..."
+  ui_print " "
 }
 
 set_permissions() {
