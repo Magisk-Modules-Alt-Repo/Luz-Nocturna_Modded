@@ -19,14 +19,13 @@ REPLACE_EXAMPLE="
 /system/framework
 "
 
-# QS Compact Magisk Permission Settings 
 REPLACE="
 "
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "          Modo Noche Modded            "
-  ui_print "             Por  CrazyBytesVE                "
+  ui_print "      Luz Nocturna Modded      "
+  ui_print "       Por  CrazyBytesVE       "
   ui_print "*******************************"
 }
 
@@ -34,9 +33,9 @@ print_modname() {
 on_install() {
   # The following is the default implementation: extract $ZIPFILE/system to $MODPATH
   # Extend/change the logic to whatever you want
-  ui_print "- Extracting module files"
+  ui_print "- Extrayendo archivos..."
   unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
-  ui_print "- deleting package cache"
+  ui_print "- Ordenando la casa..."
   rm -rf /data/system/package_cache/*
 }
 
