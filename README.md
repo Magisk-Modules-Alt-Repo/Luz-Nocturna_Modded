@@ -1,5 +1,4 @@
 # Luz Nocturna Modded
-
 ---
 ## Vista rápida
 - Modifica los valores mínimos del modo Luz Nocturna para permitir bajar la tonalidad cálida excesiva
@@ -13,7 +12,6 @@
 ---
 
 # Modded Night Light
-
 ---
 ## Quick View
 - Modifies the minimum values of the Night Light mode to allow for lowering the excessive warm hue.
