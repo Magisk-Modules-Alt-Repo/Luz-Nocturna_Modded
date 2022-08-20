@@ -9,6 +9,9 @@
 
 ## Descarga
 - https://github.com/CrazyBytesVE/Luz-Nocturna/releases
+
+## Créditos
+- [@topjohnwu](https://github.com/topjohnwu) / Magisk - Magisk Module Template
 ---
 
 *ENGLISH VERSION*
@@ -25,3 +28,6 @@
 
 ## Download
 - https://github.com/CrazyBytesVE/Luz-Nocturna/releases
+
+## Credits
+- [@topjohnwu](https://github.com/topjohnwu) / Magisk - Magisk Module Template
