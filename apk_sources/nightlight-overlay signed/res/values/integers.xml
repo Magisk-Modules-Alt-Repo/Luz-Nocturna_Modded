@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_nightColorTemperature">4800</integer>
+    <integer name="config_nightDisplayColorTemperatureDefault">4200</integer>
+    <integer name="config_nightDisplayColorTemperatureMax">6000</integer>
+    <integer name="config_nightDisplayColorTemperatureMin">3500</integer>
+    <integer name="APKTOOL_DUMMY_0" />
+    <integer name="APKTOOL_DUMMY_1" />
+    <integer name="APKTOOL_DUMMY_2" />
+    <integer name="APKTOOL_DUMMY_3" />
+    <integer name="APKTOOL_DUMMY_4" />
+    <integer name="APKTOOL_DUMMY_5" />
+    <integer name="APKTOOL_DUMMY_6" />
+    <integer name="APKTOOL_DUMMY_7" />
+    <integer name="APKTOOL_DUMMY_8" />
+    <integer name="APKTOOL_DUMMY_9" />
+    <integer name="APKTOOL_DUMMY_a" />
+    <integer name="APKTOOL_DUMMY_b" />
+    <integer name="APKTOOL_DUMMY_c" />
+    <integer name="APKTOOL_DUMMY_d" />
+    <integer name="APKTOOL_DUMMY_e" />
+</resources>
